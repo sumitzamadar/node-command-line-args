@@ -1,2 +1,2 @@
 # node-command-line-args
-Notes App by Node command line arguments
+A simple Notes App using Node command line arguments
